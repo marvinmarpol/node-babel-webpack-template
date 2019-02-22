@@ -1,5 +1,4 @@
-const greeting = 'Hello World';
-console.log(greeting);
+console.log('Hello World');
 
 const getData = async (url) => {
   const response = await fetch(url);
